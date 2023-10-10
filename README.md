@@ -1,5 +1,7 @@
 # Frontend Mentor - Results summary component
 
+[Live preview](https://frontend-mentor-04-css-hm5a.vercel.app/)
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
